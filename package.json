@@ -1,7 +1,7 @@
 {  
 	"package": "MAJOR.MINOR.PATCH",
 	"dependencies": {
- "@freecodecamp/example": "~1.3.8",
+ "@freecodecamp/example": "^1.3.8",
   "express": "4.14.0"
 }
 	"version": "1.2.0",
